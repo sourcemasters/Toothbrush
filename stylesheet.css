@@ -10,36 +10,35 @@ body {
 	color: #7FDBFF;
 	text-align: center;
 	font-size: 3rem;
-<<<<<<< HEAD
 
 	font-family: "Raleway", helvetica;
 
-=======
 }
 
-#mock-timer {
+#timer {
 	color: #7FDBFF;
-	font-size: 3rem;
->>>>>>> 11f4e68fd952cb6a82daee4628efcfa3a9d460fb
+	font-size: 5rem;
 }
 
-#start-button {
+.button {
 	padding: 0.5rem;
 	border: 2px solid #7FDBFF;
-	border-radius: 15px;
+	border-radius: 10px;
 	background-color: #001f3f;	
 	color: #7FDBFF;
 	display: inline;
 	font-weight: bold;
 	font-size: 1.5rem;
 	text-align: center;
+	margin-left:10px; 
+	margin-right:10px;
 }
 
 #timer-container {
 	text-align: center;
 }
 
-#start-button:hover {
+.button:hover {
 	border: 2px solid #7FDBFF;
 	background-color: #7FDBFF;
 	color: #001f3f;
