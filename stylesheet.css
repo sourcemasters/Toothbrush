@@ -27,7 +27,6 @@ body {
 	font-weight: bold;
 	font-size: 1.5rem;
 	text-align: center;
-	font-family: "Raleway", helvetica;
 }
 
 #timer-container {
@@ -38,6 +37,14 @@ body {
 	border: 2px solid #7FDBFF;
 	background-color: #7FDBFF;
 	color: #001f3f;
+}
+
+#title-container {
+	text-align: center;
+}
+
+#title-container img {
+	max-height: 15rem;
 }
 
 @font-face {
