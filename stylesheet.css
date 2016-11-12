@@ -1,11 +1,37 @@
 body {
-	background-color: #5A79A5;
+	background-color: #001f3f;
 }
 
 #main-title {
-	color: #CE0000;
+	color: #7FDBFF;
 	text-align: center;
 	font-size: 3rem;
+<<<<<<< HEAD
 	font-family: Abel;
 	margin-top: 5%;
+=======
+	font-family: helvetica;
+}
+
+#start-button {
+	padding: 0.5rem;
+	border: 2px solid #7FDBFF;
+	border-radius: 15px;
+	background-color: #001f3f;	
+	color: #7FDBFF;
+	display: inline;
+	font-weight: bold;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+#timer-container {
+	text-align: center;
+}
+
+#start-button:hover {
+	border: 2px solid #7FDBFF;
+	background-color: #7FDBFF;
+	color: #001f3f;
+>>>>>>> 6dafd53bb5347bd9393fefeee659df77201d4f95
 }
