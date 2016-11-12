@@ -2,11 +2,19 @@ body {
 	background-color: #001f3f;
 }
 
+* {
+	font-family: "Raleway", helvetica;
+}
+
 #main-title {
 	color: #7FDBFF;
 	text-align: center;
 	font-size: 3rem;
-	font-family: "Raleway", helvetica;
+}
+
+#mock-timer {
+	color: #7FDBFF;
+	font-size: 3rem;
 }
 
 #start-button {
